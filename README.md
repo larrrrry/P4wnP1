@@ -1,6 +1,8 @@
 P4wnP1 by MaMe82
 ================
 
+Mods by larry more details comming soon!
+
 P4wnP1 is a highly customizable USB attack platform, based on a low cost Raspberry Pi Zero or Raspberry Pi Zero W.
 
 P4wnP1 Features
